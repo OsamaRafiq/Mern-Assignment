@@ -1,0 +1,31 @@
+.nav{
+color:black;
+}
+
+.para {
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+ font-size: 30px;
+ margin-left: 250px;
+
+}
+
+.main{  
+    display: flex;
+    align-items: center;
+    
+}
+.text {
+font-size: 20px;
+font-family: serif;
+
+}
+.ul{
+    list-style-type:circle;
+}
+
+.faq{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
